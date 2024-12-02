@@ -8,7 +8,7 @@ b) Tabular data set Colab Link: https://colab.research.google.com/drive/14Dt3Kyu
 
 c) Datbricks Colab Link : https://colab.research.google.com/drive/1X0jWRiOoJpiK4KiGW6JAtACdjSL-gmDv
 
-Youtube link: https://www.youtube.com/watch?v=3uxOyk-SczU
+Youtube link: https://youtu.be/ilbMDqOuZX8
 
 # Key Concepts
 
